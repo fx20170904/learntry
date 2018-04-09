@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/fx20170904/guest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fx20170904/quicklearn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\PyWork" />
+    <option name="cloneParentDir" value="E:\PyWork\quicklearn" />
   </component>
 </application>
