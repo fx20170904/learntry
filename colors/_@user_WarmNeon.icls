@@ -4,7 +4,7 @@
     <property name="created">2018-03-05T09:41:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-05-25T16:17:38</property>
+    <property name="modified">2018-05-31T15:42:04</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -927,7 +927,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ff6666" />
+        <option name="FOREGROUND" value="ffa711" />
       </value>
     </option>
     <option name="PY.OPERATION_SIGN">
