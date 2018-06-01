@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/fx20170904/quicklearn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.104.101.128/mayer/LuckyAutoTest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\PyWork\quicklearn" />
+    <option name="cloneParentDir" value="E:\PyWork\coffee" />
   </component>
 </application>
