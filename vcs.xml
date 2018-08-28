@@ -22,8 +22,12 @@
           <option name="url" value="http://10.104.101.128/mayer/LuckyAutoTest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/small99/AutoLink.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\PyWork\coffee" />
+    <option name="cloneParentDir" value="E:\PyWork\AutoLink" />
   </component>
 </application>
