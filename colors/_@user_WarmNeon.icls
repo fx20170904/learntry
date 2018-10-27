@@ -4,7 +4,7 @@
     <property name="created">2018-03-05T09:41:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-05-31T15:42:04</property>
+    <property name="modified">2018-10-27T18:16:32</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -24,7 +24,7 @@
     <option name="GUTTER_BACKGROUND" value="424242" />
     <option name="INDENT_GUIDE" value="505050" />
     <option name="LEFT_GUTTER_BACKGROUND" value="8a8a8a" />
-    <option name="LINE_NUMBERS_COLOR" value="6da0a1" />
+    <option name="LINE_NUMBERS_COLOR" value="a17b0a" />
     <option name="METHOD_SEPARATORS_COLOR" value="868686" />
     <option name="MODIFIED_LINES_COLOR" value="522a2a" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="374037" />
@@ -218,7 +218,7 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="62ccb5" />
+        <option name="FOREGROUND" value="cc584e" />
         <option name="EFFECT_COLOR" value="83b9a3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -484,7 +484,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="98aca9" />
+        <option name="FOREGROUND" value="bac1b" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="7a9c95" />
         <option name="EFFECT_TYPE" value="1" />
@@ -562,7 +562,7 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="62ccb5" />
+        <option name="FOREGROUND" value="a8ff4a" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="83b9a3" />
         <option name="EFFECT_TYPE" value="1" />
@@ -899,12 +899,12 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="6699ff" />
+        <option name="FOREGROUND" value="cc9efe" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d2c200" />
+        <option name="FOREGROUND" value="9990c2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -916,7 +916,7 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc9900" />
+        <option name="FOREGROUND" value="9c5fcc" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -927,7 +927,12 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ffa711" />
+        <option name="FOREGROUND" value="cfcbd3" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="f3f0f9" />
       </value>
     </option>
     <option name="PY.OPERATION_SIGN">
@@ -935,6 +940,9 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value />
     </option>
     <option name="PY.PARENTHS">
       <value>
@@ -960,7 +968,7 @@
     </option>
     <option name="PY.STRING.B">
       <value>
-        <option name="FOREGROUND" value="85cd00" />
+        <option name="FOREGROUND" value="cd558a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -972,7 +980,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ff00" />
+        <option name="FOREGROUND" value="ffbb05" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ff00" />
         <option name="EFFECT_TYPE" value="1" />
@@ -1192,7 +1200,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="9bc28e" />
+        <option name="FOREGROUND" value="5692ff" />
         <option name="BACKGROUND" value="404040" />
       </value>
     </option>
@@ -1244,7 +1252,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4d444d" />
-        <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
+        <option name="ERROR_STRIPE_COLOR" value="d93fff" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
