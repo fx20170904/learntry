@@ -4,7 +4,7 @@
     <property name="created">2018-03-05T09:41:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-10-27T18:16:32</property>
+    <property name="modified">2018-10-29T15:35:20</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -904,7 +904,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9990c2" />
+        <option name="FOREGROUND" value="95929b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -927,7 +927,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="cfcbd3" />
+        <option name="FOREGROUND" value="a9a5ad" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -968,7 +968,7 @@
     </option>
     <option name="PY.STRING.B">
       <value>
-        <option name="FOREGROUND" value="cd558a" />
+        <option name="FOREGROUND" value="cc9efe" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
