@@ -4,20 +4,19 @@
     <property name="created">2018-01-25T09:39:17</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-12-05T11:30:45</property>
+    <property name="modified">2019-05-17T17:05:45</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="cceed0" />
@@ -49,6 +48,7 @@
     </option>
     <option name="TEXT">
       <value>
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="cceed0" />
       </value>
     </option>
