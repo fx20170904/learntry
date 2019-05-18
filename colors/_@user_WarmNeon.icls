@@ -4,7 +4,7 @@
     <property name="created">2018-03-05T09:41:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-12-05T11:24:45</property>
+    <property name="modified">2019-05-18T16:53:49</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -16,7 +16,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="395439" />
     <option name="ANNOTATIONS_COLOR" value="8178af" />
-    <option name="CARET_COLOR" value="ff00" />
+    <option name="CARET_COLOR" value="ff32cd" />
     <option name="CARET_ROW_COLOR" value="282828" />
     <option name="CONSOLE_BACKGROUND_KEY" value="404040" />
     <option name="DELETED_LINES_COLOR" value="747474" />
@@ -484,7 +484,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bac1b" />
+        <option name="FOREGROUND" value="6d6d00" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="7a9c95" />
         <option name="EFFECT_TYPE" value="1" />
@@ -911,6 +911,13 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.DOC_COMMENT_TAG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.DOT">
       <value />
     </option>
@@ -918,6 +925,11 @@
       <value>
         <option name="FOREGROUND" value="53bcff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="9f0e44" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -948,7 +960,9 @@
       </value>
     </option>
     <option name="PY.PARAMETER">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="ffffff" />
+      </value>
     </option>
     <option name="PY.PARENTHS">
       <value>
@@ -980,7 +994,7 @@
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="b580" />
+        <option name="FOREGROUND" value="89002d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
