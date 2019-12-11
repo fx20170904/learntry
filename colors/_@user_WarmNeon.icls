@@ -4,7 +4,7 @@
     <property name="created">2018-03-05T09:41:59</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-05-18T16:53:49</property>
+    <property name="modified">2019-12-11T18:08:08</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -907,7 +907,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7cafee" />
+        <option name="FOREGROUND" value="6999ce" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -971,7 +971,7 @@
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="83d6f1" />
+        <option name="FOREGROUND" value="63a4b8" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -988,7 +988,7 @@
     </option>
     <option name="PY.STRING.B">
       <value>
-        <option name="FOREGROUND" value="cc9efe" />
+        <option name="FOREGROUND" value="862caa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1000,7 +1000,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ffbb05" />
+        <option name="FOREGROUND" value="ea5628" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ff00" />
         <option name="EFFECT_TYPE" value="1" />
