@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/HttpRunner/HttpRunner.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Maru-zhang/iCCUT-Backend-Flask" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\PyWork\httprunnertest" />
+    <option name="cloneParentDir" value="E:\PyWork\flask_demo" />
   </component>
 </application>
